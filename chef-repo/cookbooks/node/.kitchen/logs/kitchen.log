@@ -1,0 +1,3 @@
+I, [2019-08-25T17:41:56.904237 #71750]  INFO -- Kitchen: -----> Starting Kitchen (v1.8.0)
+I, [2019-08-25T17:41:57.047254 #71750]  INFO -- Kitchen: -----> Destroying <node-centos65>...
+I, [2019-08-25T17:42:01.425674 #71750]  INFO -- Kitchen: -----> Kitchen is finished. (0m4.52s)
